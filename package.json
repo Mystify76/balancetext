@@ -1,0 +1,12 @@
+{
+  "name": "@mystify/balancetext",
+  "version": "1.0.0",
+  "description": "A ripoff of balancetext by Randy Edmunds to customize to my own needs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "David Gallant",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {  },
+  "homepage": "https://github.com/Mystify76/balancetext"
+}
