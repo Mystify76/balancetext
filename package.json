@@ -1,6 +1,6 @@
 {
   "name": "@mystify/balancetext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A ripoff of balancetext by Randy Edmunds to customize to my own needs",
   "main": "index.js",
   "scripts": {
