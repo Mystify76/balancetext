@@ -1,11 +1,32 @@
 {
   "name": "@mystify/balancetext",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A ripoff of balancetext by Randy Edmunds to customize to my own needs",
   "main": "index.js",
   "author": "David Gallant",
   "license": "MIT",
-  "devDependencies": {  },
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "devDependencies": {
+    "@mystify/buildmanagement": "^1.0.9",
+    "lodash": "^4.17.15",
+    "prompt-promise": "^1.0.3",
+    "simple-git": "^2.6.0"
+  },
   "dependencies": {},
-  "homepage": "https://github.com/Mystify76/balancetext"
+  "homepage": "https://github.com/Mystify76/balancetext",
+  "build": {
+    "major": "1",
+    "minor": "0",
+    "revision": "3",
+    "build": "0001",
+    "year": "2020",
+    "month": "06",
+    "day": "15",
+    "hour": "10",
+    "minute": "38",
+    "second": "43",
+    "date": "1592228323798"
+  }
 }
